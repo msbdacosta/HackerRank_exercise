@@ -1,3 +1,3 @@
-function solveMeFirst (a, b) {
-    return a + b;
+function solveMeFirst(a, b) {
+  return a + b;
 }
