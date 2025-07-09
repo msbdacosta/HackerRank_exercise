@@ -1,2 +1,3 @@
 # HackerRank_exercise
-Exercises from `www.hackerrank.com`.
+
+JavaScript exercises from `www.hackerrank.com`.
